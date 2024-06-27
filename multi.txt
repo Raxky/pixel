@@ -1,0 +1,4 @@
+query_id=AAHVzBQoAAAAANXMFCgGG2G-&user=%7B%22id%22%3A672451797%2C%22first_name%22%3A%22Buzz%22%2C%22last_name%22%3A%22Raxky%22%2C%22username%22%3A%22mr_indo%22%2C%22language_code%22%3A%22id%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719508488&hash=7dc29ed9e938bade49e2a9a9edcf237d5a581eca3bd6135095baa913073a1b1e
+b245c628a4e382327d89ebe0b679cb6aaac0e5d2e009d9132f1292f0fb66fe1c
+672451797
+mr_indo
